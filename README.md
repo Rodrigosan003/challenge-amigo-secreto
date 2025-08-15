@@ -10,14 +10,6 @@
 
 ---
 
-## 📜 Índice
-
-- [Sobre](#sobre)
-- [Tecnologias](#tecnologias)
-- [Licença](#licença)
-
----
-
 ## 📖 Sobre
 
 Uma página para selecionar uma lista de nomes e sortear para um amigo secreto.
